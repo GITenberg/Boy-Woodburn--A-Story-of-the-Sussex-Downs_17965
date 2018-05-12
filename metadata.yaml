@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1027
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Ollivant_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17965#Boy-Woodburn--A-Story-of-the-Sussex-Downs
 gutenberg_issued: '2006-03-11'
 gutenberg_type: Text
 identifiers:
